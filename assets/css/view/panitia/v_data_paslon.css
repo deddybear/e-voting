@@ -1,0 +1,22 @@
+.btn-xs, .btn-group-xs > .btn {
+    padding: 1px 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+
+.pull-right {
+    float: right !important;
+    margin: 3%;
+}
+
+.img-paslon {
+    width: 100px;
+    height: 100px;
+}
+
+.bababoey {
+    background: #fff !important;
+    text-decoration: none !important;
+  }
+  

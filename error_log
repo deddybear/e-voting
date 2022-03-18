@@ -1,0 +1,1 @@
+[31-Aug-2020 13:52:03 UTC] PHP Fatal error:  Cannot redeclare M_Data_Voting::dataBelumVote() in /home/dpmfisip/public_html/application/models/M_Data_Voting.php on line 115

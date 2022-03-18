@@ -1,0 +1,16 @@
+.copyright {
+    text-decoration: none !important;
+    line-height: 1;
+    font-size: .8rem;
+}
+
+.sticky-footer {
+  
+  padding: 2rem 0 0 0;
+
+}
+
+.bg-gradient-primary{
+    
+    background: linear-gradient(#09833a, #d3cd83, #d3cd83, #ffebae) !important;
+}  

@@ -1,0 +1,48 @@
+@media (min-width: 1028px){
+    .dropdown-menu {
+ 
+        left: 0% !important;
+        right: auto !important;
+        transform: translate(-50%, 0) !important;
+      
+    }
+}
+
+h3 {
+    margin: 30px 0;
+}
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    /**background-color: #f3f3f3;**/
+    background: linear-gradient(#09833a, #d3cd83, #d3cd83, #ffebae);
+}
+
+.navbar {
+	padding: 20px;
+	
+}
+
+.nav-item {
+	margin: 0 15px;
+}
+
+#container__Change {
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15) !important;
+    padding: 3px 15px;
+    background-color: #f3f3f3;
+    /*background-color: #ad9d9d;*/
+}
+
+#content_ {
+    margin: 3% 0;
+}
+
+.icons{
+    width: 30px;
+    height: 30px;
+}
+
+.form-group {
+    margin :20px 0 ;
+}

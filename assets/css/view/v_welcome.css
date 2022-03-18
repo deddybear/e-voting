@@ -1,0 +1,159 @@
+body {
+    font-family: 'Questrial', sans-serif;
+	/**background-color: #f7f2e7;**/
+	background: linear-gradient(#1CC88A, #9ae6ca , #fcfefd) !important;
+	
+}
+
+#countdown {
+	font-weight: 700;
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+.navbar {
+	padding: 20px;
+}
+
+.nav-item {
+    margin: 0 15px;
+}
+
+#content__ {
+	text-align: center;
+	margin: 5% auto;
+}
+
+.greetings {
+	margin-top: 7rem;
+	margin-bottom: 10rem;
+	letter-spacing: 5px;
+}
+
+.img-logo {
+	width: 50px;
+	height: 50px;
+	letter-spacing: 5px;
+}
+
+.icons {
+	width: 30px;
+	height: 30px;
+}
+
+.txtLeft {
+	text-align: left;
+	margin: 15px 0;
+}
+
+.txtRight {
+	margin: 15px 0;
+	text-align: right;
+}
+
+.how-container{
+	margin: 120px 0;
+}
+
+.howContent {
+    margin: 7% 0;
+	background-image: url(../../src/img/background.jpg);
+	-webkit-border-radius: 8;
+	-moz-border-radius: 8;
+	border-radius: 8px;
+	-webkit-box-shadow: -4px 4px 37px -6px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: -4px 4px 37px -6px rgba(0, 0, 0, 0.75);
+	box-shadow: -4px 4px 37px -6px rgba(0, 0, 0, 0.75);
+}
+
+.welcome-container {
+	margin: 5% 0;
+	letter-spacing: 3px;
+}
+
+
+@media (max-width: 800px) {
+
+	h1 {
+		font-weight: 700;
+		font-size: 3rem;
+	}
+
+	h3 {
+		font-size: 1rem;
+	}
+
+	h5 {
+		font-size: 12px;
+	}
+
+	p {
+		font-size: 10px;
+	}
+	
+	.nav-item {
+		text-align: center;
+	}
+}
+
+@media (max-width: 320px){
+
+	#countdown {
+		font-weight: 700;
+		text-align: center;
+		font-size: 1.5rem;
+	}
+	
+
+}
+
+@media (min-width: 360px){
+
+	#countdown {
+		font-weight: 700;
+		text-align: center;
+		font-size: 1.8rem;
+	}
+	
+
+}
+
+@media (min-width: 480px){
+
+	#countdown {
+		font-weight: 700;
+		text-align: center;
+		font-size: 2.2em;
+	}
+	
+
+}
+
+@media (min-width: 1028px) {
+
+	#countdown {
+		font-size: 5em;
+		font-weight: 700;
+		text-align: center;
+		margin: 0 auto;
+	}
+	
+	h2 {
+
+		font-weight: 700;
+		font-size: 3rem;
+	}
+
+	.dropdown-menu {
+
+		left: 0% !important;
+		right: auto !important;
+		transform: translate(-50%, 0) !important;
+
+	}
+}
+

@@ -1,0 +1,43 @@
+body {
+
+   	background: linear-gradient(#1CC88A, #9ae6ca , #fcfefd) !important;
+
+}
+
+.box__con{
+    margin: 1rem !important;
+}
+
+.login__img {
+    margin: 10px auto;
+}
+
+.alert-dismissible {
+    padding-right: 0 !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #188a42 !important;
+    border-color: #188a42 !important;
+}
+
+.container-login {
+    margin:50px auto;
+}
+
+
+@media(max-width: 480px) {
+    
+    .h3 {
+        font-size: 1.1rem !important;
+    }
+    
+    small {
+        font-size: 0.7rem !important;
+    }
+    
+    .box__con {
+        margin: 0 !important;
+    }
+}

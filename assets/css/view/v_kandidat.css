@@ -1,0 +1,109 @@
+body {
+    font-family: 'Questrial', sans-serif;
+	background: linear-gradient(#1CC88A, #9ae6ca , #fcfefd) !important;
+
+}
+
+h4 {
+	margin-top: 10px;
+}
+
+.navbar {
+	padding: 20px;
+}
+
+.img-logo {
+	width: 50px;
+	height: 50px;
+	letter-spacing: 5px;
+}
+
+.nav-item {
+	margin: 0 15px;
+}
+
+.icons {
+	width: 30px;
+	height: 30px;
+}
+
+.kandidat__content {
+	margin-top: 3%;
+}
+
+.profile {
+    text-align: center;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+}
+
+.bababoey {
+    height: 200px !important;
+    
+}
+
+.col-6 {
+	padding-right: 0.3125em !important;
+	padding-left: 0.3125em !important;
+}
+
+
+.header__vm {
+
+    text-align: center;
+}
+
+.txt__visi {
+    font-size: 0.8125rem !important;
+    text-align: justify;
+}
+
+.txt__misi {
+    font-size: 0.8125rem !important;
+    text-align: left;
+}
+.box-kandidat {
+	background-color: #f3f3f3;
+	margin: 3% 15px;
+	padding: 10px;
+
+	-webkit-border-radius: 8;
+	-moz-border-radius: 8;
+	border-radius: 8px;
+	border: solid #a4a8ab 1px;
+	-webkit-box-shadow: -4px 4px 37px -6px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: -4px 4px 37px -6px rgba(0, 0, 0, 0.75);
+	box-shadow: -4px 4px 37px -6px rgba(0, 0, 0, 0.75);
+}
+
+@media (min-width: 1028px) {
+	.dropdown-menu {
+
+		left: 0% !important;
+		right: auto !important;
+		transform: translate(-50%, 0) !important;
+
+	}
+}
+
+@media (max-width: 800px) {
+
+	h3 {
+		font-size: 15px;
+	}
+
+
+	p {
+		font-size: 10px;
+	}
+	
+	.nav-item {
+		text-align: center;
+	}
+}
+
+@media (max-width: 1024px){
+    h4 {
+        font-size : 1.1rem;
+    }
+}
